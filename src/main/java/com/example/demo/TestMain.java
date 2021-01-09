@@ -37,5 +37,6 @@ public class TestMain {
         paramList.forEach(v->{
             log.info("param = " + v);
         });
+
     }
 }
